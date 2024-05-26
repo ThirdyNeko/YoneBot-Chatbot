@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 # Ensure your API key is secure and not hardcoded in production
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+openai.api_key = "sk-proj-B39jmSjnRdYpnUAGeOECT3BlbkFJOzbjWZB7x7zgBgDBRWru"
 
 def chat_with_yone(prompt, chat_history):
     chat_history.append({"role": "user", "content": prompt})
