@@ -1,6 +1,10 @@
-# YoneBot-Chatbot
+## YoneBot-Chatbot
 
-App Description:
+#Streamlit Link: 
+https://yonebot-chatbotgit-xp6rnr2mnjjtmvc84sjuhx.streamlit.app
+
+#App Description:
+
 Chat with Yone is a web application powered by the GPT-3.5 Turbo model, allowing users to chat with an AI assistant named Yone. Deployed in Streamlit, it features a simple and user-friendly interface.
 
 Users can type messages in an input field, and Yone responds in real-time, with the chat history displayed for easy reference. This app provides an engaging and informative conversational experience with an AI.
